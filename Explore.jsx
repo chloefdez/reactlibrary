@@ -15,7 +15,7 @@ const Explore = () => {
             </div>
         </div>
     </section>
-  )
-}
+  );
+};
 
 export default Explore;
