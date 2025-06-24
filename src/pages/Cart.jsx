@@ -87,7 +87,7 @@ const Cart = ({ cart, updateCart, removeItem, totals }) => {
                   <span>Tax</span>
                   <span>${totals.tax.toFixed(2)}</span>
                 </div>
-                <button className="btn btn__checkout no-sursor" onClick={() => alert(`Haven't got around to doing this :-()`)}>
+                <button className="btn btn__checkout no-sursor" onClick={() => alert(`Haven't got around to doing this :-(`)}>
                   Proceed to checkout
                 </button>
               </div>
